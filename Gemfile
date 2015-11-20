@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 
 gem 'bootstrap-sass', '~> 3.3.4'
+gem 'simple_form'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
