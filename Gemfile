@@ -4,7 +4,12 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 
 gem 'bootstrap-sass', '~> 3.3.4'
+
+#simple form
 gem 'simple_form'
+
+#factory girl for tdd
+gem 'factory_girl_rails', '~> 4.0'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
